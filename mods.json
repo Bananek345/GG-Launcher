@@ -1,4 +1,7 @@
 {
-  fabricapi: "https://github.com/Bananek345/GG-Launcher/raw/refs/heads/main/fabric-api-0.119.4+1.21.4(1).jar"
-  gg_mod: "https://github.com/Bananek345/GG-Launcher/raw/refs/heads/main/gg_launcher_mod-1.2.jar"
+  [
+    version: "1.21.4"
+    fabricapi: "https://github.com/Bananek345/GG-Launcher/raw/refs/heads/main/fabric-api-0.119.4+1.21.4(1).jar"
+    gg_mod: "https://github.com/Bananek345/GG-Launcher/raw/refs/heads/main/gg_launcher_mod-1.2.jar"
+  ]
 }
